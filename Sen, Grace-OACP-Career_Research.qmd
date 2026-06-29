@@ -1,0 +1,56 @@
+---
+title: "Career Research Essay: Preparing for Careers in Omnichannel Retailing and E-Commerce"
+author: "Grace Sen"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Essay
+
+Alongside the rapid growth of the Internet, the retail industry has undergone significant changes over the past decade as businesses expanded from traditional (physical) stores to digital platforms. Both customers and retailers are now actively engaging on *websites*, *mobile shopping*, *online marketplaces*, and *analytics* to create a seamless shopping experience across multiple channels. Companies are no longer focused only on selling products in physical stores. Customers expect to browse products online, compare prices, read reviews, place orders through websites or mobile apps, and sometimes pick up purchases in a store. Because of this, businesses need employees who understand how these different channels work together.
+
+For this assignment, I researched three entry-level positions related to omnichannel retailing: an ***E-Commerce Specialist*** at *Spigen*, a ***Merchandise Coordinator*** at *MINISO USA*, and an ***Ecommerce Coordinator*** at *Anastasia Beverly Hills*. Although these roles have different titles and responsibilities, they all demonstrate how modern retail careers combine multiple skills.
+
+The first job posting, **E-Commerce Specialist at Spigen**, focuses on managing the company's online marketplace, particularly Amazon. I liked that the position combines marketing with data analysis. Instead of only updating products, employees are expected to understand customer needs, identify market opportunities, and work with different teams to develop new products. It seems like a role where both creativity and analytical thinking are important.
+
+The second position was **Merchandise Coordinator at MINISO USA**. This is a job that focuses more on merchandising and product operations. Responsibilities include maintaining product databases, tracking inventory, preparing reports, coordinating product launches, and supporting the buying team. The position also requires analyzing sales data and helping the company make better merchandising decisions. I noticed that employees need to manage many products and work closely with several departments, which is why organization and attention to detail are important for this job.
+
+The third job posting I found was **Ecommerce Coordinator at Anastasia Beverly Hills**. This role stood out to me because it focuses on both ecommerce operations and customer experience. Responsibilities include managing Shopify customer programs, supporting email and SMS marketing, coordinating CRM activities, and communicating with customers. The job also requires working with creative, ecommerce, and marketing teams to keep campaigns organized. Since I've been learning Shopify in this course, I found it interesting to see it listed as a preferred skill in an actual job posting.
+
+After looking at all three positions, I noticed several similarities between them. Every employer emphasized *communication*, *organization*, and *teamwork*. Another observation I made is that employers are looking for candidates who are *willing to learn and adapt*. None of the job postings expected applicants to know everything, but they consistently emphasized *curiosity*, *organization*, *communication*, and *analytical thinking*. I found this encouraging because it shows that developing strong learning habits and practical experience can be just as valuable as having years of work experience.
+
+The technical skills were also very consistent across the job postings. *Shopify*, *ecommerce platforms*, *product management*, *inventory tracking*, *CRM systems*, *Microsoft Excel*, and *reporting* appeared multiple times. I also noticed that employers expect entry-level employees to understand both business operations and digital tools. These positions combine merchandising, analytics, customer experience, and technology into one role.
+
+The IBM 6300 course has already helped me build many of these skills. Looking back at the assignments we have completed so far, I can see how they relate to the responsibilities described in these job postings. Building my own Shopify store helped me understand how products are organized, how collections improve navigation, and how an online storefront is designed. Researching the CPP Farm Store also gave me experience thinking about product assortment, customer needs, competitors, and retail positioning.
+
+Of the three positions, I was most interested in the Ecommerce Coordinator role at Anastasia Beverly Hills. I like that it combines Shopify, marketing, customer experience, and project coordination instead of focusing on only one area. Throughout this course, I've enjoyed building my Shopify store and learning how different parts of an online business work together. At the same time, I know there are still skills I want to improve, especially Excel, Google Analytics 4, and data visualization. This semester, I hope to continue building my portfolio through the Shopify assignments and the CPP Farm Store consulting project so that I have practical examples to discuss when applying for internships or entry-level ecommerce positions.
+
+Overall, researching these three jobs helped me better understand what a career in omnichannel retail looks like. Even though each position has different responsibilities, they all require a mix of technical skills, communication, and problem-solving. It also made me realize that retail today is much more than selling products, it's about creating a better experience for customers across both online and in-store channels.
+
+# References or Links
+
+## Job #1: E-Commerce Specialist at Spigen
+
+![](images/Job1.png)
+
+## Job #2: Merchandise Coordinator at MINISO USA
+
+![](images/Job2.png)
+
+## Job #3: Ecommerce Coordinator at Anastasia Beverly Hills
+
+![](images/Job3.png)
+
+# Appendix
+
+GitHub Repo:\
+GitHub Pages:
